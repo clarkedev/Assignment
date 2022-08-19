@@ -1,14 +1,35 @@
 {
   "Teams":{
-    "1":{"TeamName":"","Score":""},
-    "2":{"TeamName":"","Score":""},
-    "3":{"TeamName":"","Score":""},
-    "4":{"TeamName":"","Score":""}
+    "1":{
+      "TeamName":"",
+      "Score":""
+    },
+    "2":{
+      "TeamName":"",
+      "Score":""
+    },
+    "3":{
+      "TeamName":"",
+      "Score":""
+    },
+    "4":{
+      "TeamName":"",
+      "Score":""
+    }
   },
   "Individuals":{
-    "1":{"IndividualName":"", "Score":""},
-    "2":{"IndividualName":"", "Score":""},
-    "3":{"IndividualName":"", "Score":""},
+    "1":{
+      "IndividualName":"", 
+      "Score":""
+    },
+    "2":{
+      "IndividualName":"", 
+      "Score":""
+    },
+    "3":{
+      "IndividualName":"", 
+      "Score":""
+    },
     "4":{"IndividualName":"", "Score":""},
     "5":{"IndividualName":"", "Score":""},
     "6":{"IndividualName":"", "Score":""},
