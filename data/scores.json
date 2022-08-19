@@ -1,1 +1,30 @@
-{"Teams":{"1":{"TeamName":"","Score":""},"2":{"TeamName":"","Score":""},"3":{"TeamName":"","Score":""},"4":{"TeamName":"","Score":""}},"Individuals":{"1":{"IndividualName":"", "Score":""},"2":{"IndividualName":"", "Score":""},"3":{"IndividualName":"", "Score":""},"4":{"IndividualName":"", "Score":""},"5":{"IndividualName":"", "Score":""},"6":{"IndividualName":"", "Score":""},"7":{"IndividualName":"", "Score":""},"8":{"IndividualName":"", "Score":""},"9":{"IndividualName":"", "Score":""},"10":{"IndividualName":"", "Score":""},"11":{"IndividualName":"", "Score":""},"12":{"IndividualName":"", "Score":""},"13":{"IndividualName":"", "Score":""},"14":{"IndividualName":"", "Score":""},"15":{"IndividualName":"", "Score":""},"16":{"IndividualName":"", "Score":""},"17":{"IndividualName":"", "Score":""},"18":{"IndividualName":"", "Score":""},"19":{"IndividualName":"", "Score":""},"20":{"IndividualName":"", "Score":""}}}
+{
+  "Teams":{
+    "1":{"TeamName":"","Score":""},
+    "2":{"TeamName":"","Score":""},
+    "3":{"TeamName":"","Score":""},
+    "4":{"TeamName":"","Score":""}
+  },
+  "Individuals":{
+    "1":{"IndividualName":"", "Score":""},
+    "2":{"IndividualName":"", "Score":""},
+    "3":{"IndividualName":"", "Score":""},
+    "4":{"IndividualName":"", "Score":""},
+    "5":{"IndividualName":"", "Score":""},
+    "6":{"IndividualName":"", "Score":""},
+    "7":{"IndividualName":"", "Score":""},
+    "8":{"IndividualName":"", "Score":""},
+    "9":{"IndividualName":"", "Score":""},
+    "10":{"IndividualName":"", "Score":""},
+    "11":{"IndividualName":"", "Score":""},
+    "12":{"IndividualName":"", "Score":""},
+    "13":{"IndividualName":"", "Score":""},
+    "14":{"IndividualName":"", "Score":""},
+    "15":{"IndividualName":"", "Score":""},
+    "16":{"IndividualName":"", "Score":""},
+    "17":{"IndividualName":"", "Score":""},
+    "18":{"IndividualName":"", "Score":""},
+    "19":{"IndividualName":"", "Score":""},
+    "20":{"IndividualName":"", "Score":""}
+  }
+}
